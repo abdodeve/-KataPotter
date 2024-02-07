@@ -28,7 +28,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/abdodeve/-KataPotter.git
+   git clone https://github.com/abdodeve/KataPotter.git
    ```
 2. Install NPM packages
    ```sh
@@ -71,4 +71,4 @@ Distributed under the MIT License.
 
 Abdelhadi Habchi - abdelhadi.deve@gmail.com
 
-Project Link: [https://github.com/abdodeve/-KataPotter.git](https://github.com/abdodeve/-KataPotter.git)
+Project Link: [https://github.com/abdodeve/-KataPotter.git](https://github.com/abdodeve/KataPotter.git)
