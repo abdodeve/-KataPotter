@@ -2,7 +2,7 @@
   "scripts": {
     "start": "npx ts-node index.ts",
     "start:watch": "nodemon index.ts",
-    "test": "jest __test__/index.test.ts --watch"
+    "test": "jest"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
