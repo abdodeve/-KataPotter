@@ -72,5 +72,3 @@ Distributed under the MIT License.
 Abdelhadi Habchi - abdelhadi.deve@gmail.com
 
 Project Link: [https://github.com/abdodeve/-KataPotter.git](https://github.com/abdodeve/-KataPotter.git)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
